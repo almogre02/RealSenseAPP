@@ -2,6 +2,7 @@
 Final project in an Autonomous Robots course
 
 [Distance detection on mouseover](https://www.youtube.com/watch?v=9d2RUm9746c)
+
 [Distance & Object detection with R-CNN trained model](https://www.youtube.com/watch?v=XrRwx00MB7U)
 
 
