@@ -13,3 +13,4 @@ Final project in an Autonomous Robots course
 
 
 ### Distance & Object detection with R-CNN trained model
+![image](https://user-images.githubusercontent.com/20986238/179015146-0ac4d274-5750-4aa5-b1c9-038699721d06.png)
